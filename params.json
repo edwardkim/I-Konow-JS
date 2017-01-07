@@ -1,6 +1,0 @@
-{
-  "name": "I-konow-js",
-  "tagline": "JS 개발 관련 자료",
-  "body": "\r\n## Titles\r\n* [JS Build System 도입](js-build-system-selection/js-build-system-selection.md)\r\n* JS OOP\r\n\t1. [Java 개발자를 위한 JS OOP (1)](oop-in-js/01_java_to_js.md)\r\n\t2. [Java 개발자를 위한 JS OOP (2)](oop-in-js/02_java_to_js.md) ",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
